@@ -187,6 +187,6 @@ document.title = "HoH Player";
 const faviconLink = document.createElement("link");
 
 faviconLink.rel = "icon";
-faviconLink.href = "https://cdn.discordapp.com/attachments/1255649145495097515/1255811118589284403/icon128.png?ex=667e7cbe&is=667d2b3e&hm=d7ebe1072ddb3a2a136780b883299ab46b4b2db7ef0b8eb2572ce88c8a1df1df&quality=lossless";
+faviconLink.href = "https://i.imgur.com/bSaZILF_d.webp?maxwidth=760&fidelity=grand";
 
 document.head.appendChild(faviconLink);

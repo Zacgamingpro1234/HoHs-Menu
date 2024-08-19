@@ -1,4 +1,4 @@
-# HoHs-Menu
+# HoHs Menu
 A mod menu to assist you in House Of Hazards Speedrunning. This extension helps you set up some glitches with some utilities. 
 
 # How To Install (Universal)

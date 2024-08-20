@@ -1,6 +1,7 @@
 # HoHs Menu
 A mod menu to assist you in House Of Hazards Speedrunning. This extension helps you set up some glitches with some utilities. 
 
+# Please note that the 2 extensions are currently incompatible with each other!
 # How To Install (Universal)
 First download the zip and extract it. Go to the extensions page or type **chrome://extensions** (should work on all chromium-based browsers). Next turn on developer options then click on Load Unpacked. Select the folder and done. Please note that this will **only work on** https://kdata1.com/2020/10/House_of_Hazards/ since it is the most bare bones site. Right now there aren't a lot of features so suggest as much as you can! (Actually don't im lazy to implement them lol)
 
